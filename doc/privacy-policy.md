@@ -25,6 +25,10 @@ The app does use third party services that may collect information used to ident
 (including but not limited to the Google Play Store and Google Game Services) whose policies can be found at : 
 https://policies.google.com/privacy
 
+## Game progress
+
+In order to allow your in app progress to persist we will also collect data such as game saves.
+
 ## Log Data
 
 We want to inform you that whenever you use our Service, in case of an error in the app we collect
